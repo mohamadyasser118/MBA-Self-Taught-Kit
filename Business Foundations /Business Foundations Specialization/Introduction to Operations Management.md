@@ -3,7 +3,7 @@
 | Field                        | Details                                                                                    |
 | ---------------------------- | ------------------------------------------------------------------------------------------ |
 | **Roadmap Section**          | Core Stage 1 — Operations Management                                                       |
-| **Part of Specialization**   | Business Foundations Specialization — Wharton School (Course 4 of 6)                       |
+| **Part of Specialization**   | Business Foundations Specialization — Wharton School (Course 5 of 6)                       |
 | **Platform**                 | Coursera                                                                                   |
 | **Institution / Instructor** | Wharton School, University of Pennsylvania — Prof. Christian Terwiesch                     |
 | **Course URL**               | [coursera.org/learn/wharton-operations](https://www.coursera.org/learn/wharton-operations) |
